@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramya
-- 👀 I’m interested in building scalable and fast java applications
-- 🌱 I’m currently learning AWS, Redis, Elastic Search
+- 👀 I’m interested in building scalable and fast back end applications
+- 🌱 I’m currently learning AWS, Redis, Elastic Search, Django
 - 💞️ I’m looking to collaborate on any exciting project related to any technology. Drop me an idea
 - 📫 How to reach me : Feel free to drop me an email at educate1996@gmail.com
